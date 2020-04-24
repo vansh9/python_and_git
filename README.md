@@ -1,3 +1,3 @@
 # Python and Git practice.
-Git - What is git?
+## Git - What is git?
 
