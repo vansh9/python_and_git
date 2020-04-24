@@ -7,7 +7,7 @@ Git is a version control system! What does that mean and how does it help?
 - Similarly you can download the code from this remote repository to your local repository. (Pulling)  
 - There are several important git commands that we would be practicing, so that you get familiarized with the basic workings of git.  
 
-To start, download and install Git Bash in your Windows machine.
-
-
-
+To start, download and install Git Bash in your Windows machine. https://git-scm.com/download/win
+Follow the instructions here, making sure that in step 8, you select the following instead.
+  In STEP 8 “Git from the command line and also from 3rd-party software”  
+  
