@@ -17,8 +17,7 @@ Once you have git set up, download and install Anaconda.
 Anaconda is a free and open-source distribution of the programming languages Python and R. The distribution comes with the Python interpreter and various packages related to machine learning and data science.  
 Basically, the idea behind Anaconda is to make it easy for people interested in those fields to install all (or most) of the packages needed with a single installation. 
 
-To start, make sure, you have installed Anaconda on your laptop! You can find it here.
-    https://www.anaconda.com/distribution/#download-section
+To start, make sure, you have installed Anaconda on your laptop! You can find it [here](https://www.anaconda.com/distribution/#download-section).  
 Select your OS (Windows/mac/linux) and download installer for Python 3.7.
 
 Follow the steps [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead. 
