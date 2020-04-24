@@ -1,2 +1,3 @@
-# python_and_git
-Python_and_git
+# Python and Git practice.
+Git - What is git?
+
