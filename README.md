@@ -8,7 +8,7 @@ Git is a version control system! What does that mean and how does it help?
 - There are several important git commands that we would be practicing, so that you get familiarized with the basic workings of git.  
 
 To start, download and install Git Bash in your Windows machine. https://git-scm.com/download/win  
-Follow the instructions [here] (https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows/), making sure that in step 8, you select the following instead.
+Follow the instructions [here](https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows), making sure that in step 8, you select the following instead.
   In STEP 8 “Git from the command line and also from 3rd-party software”  
   
 Once you have git set up, download and install Anaconda.
@@ -21,4 +21,4 @@ To start, make sure, you have installed Anaconda on your laptop! You can find it
     https://www.anaconda.com/distribution/#download-section
 Select your OS (Windows/mac/linux) and download installer for Python 3.7.
 
-Follow the steps [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead.  
+Follow the steps [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead. [link to Google!](http://google.com)    
