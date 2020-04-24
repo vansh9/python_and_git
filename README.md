@@ -21,4 +21,4 @@ To start, make sure, you have installed Anaconda on your laptop! You can find it
     https://www.anaconda.com/distribution/#download-section
 Select your OS (Windows/mac/linux) and download installer for Python 3.7.
 
-Follow the steps [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead. [link to Google!](http://google.com)    
+Follow the steps [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead. 
