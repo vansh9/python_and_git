@@ -45,12 +45,26 @@ Stages the changes to be committed
 
 4. git push
 
+Changes made can be seen by clicking 'Commits' on remote repository.
+
 STEPS for pullling changes from remote to local repository
     
 1. git pull  
 Fetches and merges changes from the remote repository to the local repository.
 
 ### Anaconda Prompt
-    
+
+Create new learning environment apart from base.
+Benefits include - instead of just code, all the packages installed can also be shared.
+
+To install packages (such as pandas) type:
+conda install pandas
+
+To install jupyter notebook in the new environment type:
+conda install jupyter
+
+To launch jupyter notebook type:
+conda jupyter notebook
+
 
 Things pending for learning - branching and merge conflicts
