@@ -18,3 +18,14 @@ Anaconda is a free and open-source distribution of the programming languages Pyt
 Basically, the idea behind Anaconda is to make it easy for people interested in those fields to install all (or most) of the packages needed with a single installation. 
 
 To start, make sure, you have installed Anaconda on your laptop! You can find it in [Download Anaconda](https://www.anaconda.com/distribution/#download-section). Follow the steps in [Anaconda Installation](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), making sure you follow them for Python 3.7 instead. 
+
+## Next Steps -
+First, open git bash and clone the repository and save it on your local machine.
+git clone https://github.com/israni/python_and_git.git
+
+Here are some useful git commands that you would require.
+1. git status
+Tells you the current status of the repository.
+
+
+
