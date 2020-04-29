@@ -24,8 +24,10 @@ First, open git bash and clone the repository and save it on your local machine.
 git clone https://github.com/israni/python_and_git.git
 
 Here are some useful git commands that you would require.
-1. git status
+1. git status  
 Tells you the current status of the repository.
 
+2. git pull  
+Fetches and merges changes from the remote repository to the local repository.
 
 
