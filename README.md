@@ -30,4 +30,14 @@ Tells you the current status of the repository.
 2. git pull  
 Fetches and merges changes from the remote repository to the local repository.
 
+3. git add <Filename>     
+   OR to add everything   
+   git add .
+Stages the changes to be committed
+    
+4. git commit -m "Mention the Change"
+
+5. git push
+    
+
 
